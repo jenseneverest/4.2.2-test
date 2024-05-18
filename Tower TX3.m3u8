@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true 
+#EXTINF:-1,Tower TX3
+#EXTVLCOPT:program=1
+http://192.168.0.28:8001/1:0:1:1:1:FFFF:46AD57:0:0:0:
